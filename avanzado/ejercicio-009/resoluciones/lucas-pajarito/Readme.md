@@ -19,4 +19,4 @@ Practicar mecanismos de concurrencia en MySQL:
 El escenario simula un sistema de inscripción a eventos donde varios usuarios podrían intentar reservar el mismo cupo al mismo tiempo.
 
 ---
-
+ 
